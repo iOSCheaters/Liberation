@@ -1,5 +1,6 @@
 Liberation
 ========
+[![Build Status](https://travis-ci.org/Naville/Liberation.svg?branch=master)](https://travis-ci.org/Naville/Liberation)
 
 Liberation (formerly civ3) is a next generation code injection library for iOS cheaters everywhere.
 Unlike liberation's predecessor writeData, which was pretty much never updated and had tons of random edits floating around the net, Liberation will be updated regularly in this repo, and contributions are welcome from anyone (even if you aren't a member of ioscheaters)
